@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+
+  <!--  <string name="facebook_application_id">3080114485348907</string>
+    <string name="fb_login_protocol_scheme">fb3080114485348907</string>-->
+
+    <string name="facebook_application_id" translatable="false">APP_ID</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbAPP_ID</string>
+
+</resources>
